@@ -7,17 +7,29 @@ public:
         sort(copy.begin(), copy.end());
         
         int target = copy[copy.size() - 1];
-        
+
         int left = 0;
         int right = arr.size() - 1;
-        
-        // Find target in the original array
-        for (int i = left; i <= right; i++) {
-            if (arr[i] == target) {
-                return i;
+
+        while (left <= right) {
+            
+            int mid = left + (right - left) / 2;
+
+            if (arr[mid] == target) {
+                return mid;
+            }
+            
+            // We are on the increasing side
+            if (arr[mid] < arr[mid + 1]) {
+                left = mid + 1;
+            }
+            
+            // We are on the decreasing side
+            else {
+                right = mid - 1;
             }
         }
-        
+
         return -1;
     }
 };
