@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
