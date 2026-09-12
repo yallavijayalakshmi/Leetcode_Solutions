@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -94,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
