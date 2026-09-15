@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3870-count-commas-in-range](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
