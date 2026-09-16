@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bubble Sort
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -137,5 +139,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0917-reverse-only-letters](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
