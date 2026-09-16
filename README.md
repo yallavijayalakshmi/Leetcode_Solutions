@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Linked List
 |  |
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-reverse-only-letters](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
