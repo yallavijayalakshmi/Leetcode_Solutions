@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bubble Sort
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
