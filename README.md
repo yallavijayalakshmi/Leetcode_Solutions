@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
