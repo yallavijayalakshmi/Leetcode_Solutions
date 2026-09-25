@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0922-sort-array-by-parity-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -187,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
