@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0283-move-zeroes) |
