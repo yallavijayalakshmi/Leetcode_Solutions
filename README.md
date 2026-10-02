@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
