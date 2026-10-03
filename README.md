@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
