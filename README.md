@@ -96,12 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
