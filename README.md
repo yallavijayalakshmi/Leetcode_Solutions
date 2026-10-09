@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0649-dota2-senate](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
