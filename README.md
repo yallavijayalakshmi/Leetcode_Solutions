@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1051-height-checker](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
@@ -226,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
