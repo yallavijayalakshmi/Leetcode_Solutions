@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Binary Search
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
