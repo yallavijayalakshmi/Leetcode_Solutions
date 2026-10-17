@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0649-dota2-senate](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0917-reverse-only-letters](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
