@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
