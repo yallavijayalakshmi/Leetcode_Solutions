@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2574-left-and-right-sum-differences](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3028-ant-on-the-boundary](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3498-reverse-degree-of-a-string](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yallavijayalakshmi/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
